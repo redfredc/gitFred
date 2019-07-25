@@ -15,6 +15,7 @@ word – prefix mapping is the output of the program.
 The program ignores duplicate words in the input.
 A zero-length input results in a zero-length output.  */
 
+// Working, but still needs attention
 import scala.collection.mutable.Map
 
     def shortestInPair(s: String, t: String, ok: Seq[String]): String = {
