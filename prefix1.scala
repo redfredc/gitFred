@@ -1,6 +1,8 @@
 
 object MyClass {
+
 // Skaffi Baffel
+
 /* The program ‘uniquePrefix’ examines a list of words and 
 returns the shortest unique prefix for each word. 
 It finds the shortest unique prefix by firstly building a list 
